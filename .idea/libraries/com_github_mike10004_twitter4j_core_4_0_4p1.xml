@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.mike10004:twitter4j-core:4.0.4p1" type="repository">
+    <properties maven-id="com.github.mike10004:twitter4j-core:4.0.4p1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/mike10004/twitter4j-core/4.0.4p1/twitter4j-core-4.0.4p1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
